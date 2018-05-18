@@ -1,2 +1,2 @@
 # SimpleSLAM
-A simple python implement of feature-based SLAM system.
+A simple python implement of feature-based monocular SLAM system.
